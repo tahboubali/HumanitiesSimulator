@@ -1,1 +1,1 @@
-# HumanitiesSimulator
+This is a project called "Virus Story Game"; I used javascript html and css to make a virus story game where you play as a civilization leader and make decisions about what to do with the virus. I plan on adding more decisions and content! Note that I am a beginner and would love to take tips and advice to improve! Thanks!
