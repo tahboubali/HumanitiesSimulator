@@ -43,6 +43,7 @@ button:active {
 }
 
 button {
+    transition: 200ms;
     color: #12380c;
     font-size: 15px;
     position:relative;
